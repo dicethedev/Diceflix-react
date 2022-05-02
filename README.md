@@ -1,3 +1,10 @@
+![project-image-3](https://user-images.githubusercontent.com/85754527/166171015-a90d367d-f2ba-4342-9e42-3b58b4e47b0a.jpg)
+
+https://diceflix.netlify.app/
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
